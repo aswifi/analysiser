@@ -1,2 +1,1 @@
-# analysiser
-PHP
+Copyright 2017 Analysiser
